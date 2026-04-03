@@ -1,0 +1,6 @@
+apiVersion: v2
+name: alice-view
+description: ALICE View
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
